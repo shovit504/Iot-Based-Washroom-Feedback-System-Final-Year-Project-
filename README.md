@@ -18,4 +18,5 @@ This project aims to revolutionize the way we monitor and maintain restroom hygi
 * Cloud Services: Firebase Realtime Database and Storage.
 * Integration: Twilio for SMS notifications.
 
-[Named Link](https://www.ijraset.com/best-journal/iot-based-washroom-feedback-system-for-quality-monitoring "Publication!")
+## Paper Link:
+[Published Paper](https://www.ijraset.com/best-journal/iot-based-washroom-feedback-system-for-quality-monitoring "Publication!")
